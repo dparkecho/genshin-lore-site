@@ -14,7 +14,7 @@ export default function Home() {
 
       <section
         className="h-screen bg-cover bg-center flex flex-col items-center justify-center text-white text-center px-4"
-        style={{ backgroundImage: "url('/images/hero.png')" }}
+        style={{ backgroundImage: "url('/images/homepage.png')" }}
       >
         <h2 className="text-5xl md:text-6xl font-extrabold mb-4 drop-shadow-lg">
           YOUR MAIN TITLE
