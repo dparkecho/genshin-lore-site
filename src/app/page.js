@@ -21,7 +21,7 @@ export default function Home() {
 
         <Link
           href="/Build"
-          className="inline-block bg-indigo-500 text-white px-6 py-3 rounded hover:bg-indigo-600 transition"
+          className="inline-block bg-blue-500 text-white px-6 py-3 rounded hover:bg-indigo-600 transition"
         >
           View Builds →
         </Link>
