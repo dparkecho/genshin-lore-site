@@ -6,9 +6,9 @@ export default function Home() {
       <nav className="bg-gray-900 text-white px-8 py-4 flex justify-between items-center">
         <h1 className="text-2xl font-bold">Genshin Lore</h1>
         <div className="space-x-6 text-sm font-medium">
-          <Link href="/story" className="hover:text-purple-300">Story</Link>
-          <Link href="/builds" className="hover:text-purple-300">Builds</Link>
-          <Link href="/theory" className="hover:text-purple-300">Theories</Link>
+          <Link href="/Story" className="hover:text-purple-300">Story</Link>
+          <Link href="/Build" className="hover:text-purple-300">Builds</Link>
+          <Link href="/Theory" className="hover:text-purple-300">Theories</Link>
         </div>
       </nav>
 
@@ -23,7 +23,7 @@ export default function Home() {
           Your placeholder subtitle or description goes here. This can be 2–3 lines long.
         </p>
         <Link
-          href="/story"
+          href="/Story"
           className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-3 px-6 rounded shadow transition"
         >
           Unveil the Lore
